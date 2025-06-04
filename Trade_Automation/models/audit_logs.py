@@ -16,4 +16,4 @@ class AuditLog(Base):
     details = Column(Text)
     timestamp = Column(DateTime, default=datetime.datetime.utcnow)
 
-    users = relationship("User", back_populates="logs")
+    user = relationship("User", back_populates="logs")

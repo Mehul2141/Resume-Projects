@@ -15,4 +15,4 @@ class UserStrategy(Base):
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
 
     user = relationship("User", back_populates="strategies")
-    stategy = relationship("Strategy", back_populates="users")
+    strategy = relationship("Strategy", back_populates="users")
