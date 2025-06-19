@@ -11,10 +11,10 @@ class UserBroker(Base):
     __tablename__ = 'user_brokers'
     user_id = Column(UUID(as_uuid=True), ForeignKey('users.user_id'), primary_key=True)
     broker_id = Column(UUID(as_uuid=True), ForeignKey('brokers.broker_id'), primary_key=True)
-    client_code = Column(String)
-    user_api_key = Column(Text)
+    client_code = Column(String, unique=True) 
     jwt_token = Column(Text)
     refresh_token = Column(Text)
+    feed_token = Column(Text)
     expires_at = Column(DateTime)
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
 
