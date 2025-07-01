@@ -1,0 +1,193 @@
+[I 250623 14:08:46 websocket:47] WebSocket opened
+[I 250623 14:22:26 websocket:49] WebSocket opened
+[I 250623 14:22:27 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13300531, 'exchange_timestamp': 1750668746000, 'last_traded_price': 5608615, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:27 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13300578, 'exchange_timestamp': 1750668746000, 'last_traded_price': 5608675, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:27 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13300928, 'exchange_timestamp': 1750668747000, 'last_traded_price': 5608555, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13301234, 'exchange_timestamp': 1750668747000, 'last_traded_price': 5608555, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13301275, 'exchange_timestamp': 1750668747000, 'last_traded_price': 5608555, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13301312, 'exchange_timestamp': 1750668747000, 'last_traded_price': 5608555, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13301346, 'exchange_timestamp': 1750668747000, 'last_traded_price': 5608555, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13301468, 'exchange_timestamp': 1750668747000, 'last_traded_price': 5608465, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13301924, 'exchange_timestamp': 1750668748000, 'last_traded_price': 5608445, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13302148, 'exchange_timestamp': 1750668748000, 'last_traded_price': 5608375, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13302458, 'exchange_timestamp': 1750668749000, 'last_traded_price': 5608375, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13302496, 'exchange_timestamp': 1750668749000, 'last_traded_price': 5608375, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13302530, 'exchange_timestamp': 1750668749000, 'last_traded_price': 5608375, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13302576, 'exchange_timestamp': 1750668749000, 'last_traded_price': 5608375, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13302871, 'exchange_timestamp': 1750668749000, 'last_traded_price': 5607710, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13303097, 'exchange_timestamp': 1750668749000, 'last_traded_price': 5608605, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13303462, 'exchange_timestamp': 1750668750000, 'last_traded_price': 5608005, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13303609, 'exchange_timestamp': 1750668750000, 'last_traded_price': 5608005, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13303616, 'exchange_timestamp': 1750668750000, 'last_traded_price': 5608005, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13303650, 'exchange_timestamp': 1750668750000, 'last_traded_price': 5608005, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13303687, 'exchange_timestamp': 1750668750000, 'last_traded_price': 5608005, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:31 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13303946, 'exchange_timestamp': 1750668750000, 'last_traded_price': 5608130, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:31 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13304405, 'exchange_timestamp': 1750668751000, 'last_traded_price': 5608130, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13304629, 'exchange_timestamp': 1750668751000, 'last_traded_price': 5608325, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13304860, 'exchange_timestamp': 1750668752000, 'last_traded_price': 5608325, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13304931, 'exchange_timestamp': 1750668752000, 'last_traded_price': 5608325, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13304935, 'exchange_timestamp': 1750668752000, 'last_traded_price': 5608325, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13304975, 'exchange_timestamp': 1750668752000, 'last_traded_price': 5608325, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13305349, 'exchange_timestamp': 1750668752000, 'last_traded_price': 5608365, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13305651, 'exchange_timestamp': 1750668752000, 'last_traded_price': 5608120, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13305980, 'exchange_timestamp': 1750668753000, 'last_traded_price': 5608080, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13306148, 'exchange_timestamp': 1750668753000, 'last_traded_price': 5608080, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13306204, 'exchange_timestamp': 1750668753000, 'last_traded_price': 5608080, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13306208, 'exchange_timestamp': 1750668753000, 'last_traded_price': 5608080, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13306336, 'exchange_timestamp': 1750668753000, 'last_traded_price': 5608080, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:34 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13306469, 'exchange_timestamp': 1750668753000, 'last_traded_price': 5608125, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:34 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13306927, 'exchange_timestamp': 1750668754000, 'last_traded_price': 5607655, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13307152, 'exchange_timestamp': 1750668754000, 'last_traded_price': 5608200, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13307325, 'exchange_timestamp': 1750668754000, 'last_traded_price': 5608200, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13307329, 'exchange_timestamp': 1750668754000, 'last_traded_price': 5608200, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13307396, 'exchange_timestamp': 1750668754000, 'last_traded_price': 5608200, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13307400, 'exchange_timestamp': 1750668754000, 'last_traded_price': 5608200, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13307876, 'exchange_timestamp': 1750668755000, 'last_traded_price': 5608300, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:36 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13308104, 'exchange_timestamp': 1750668755000, 'last_traded_price': 5608220, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:36 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13308418, 'exchange_timestamp': 1750668756000, 'last_traded_price': 5608210, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:36 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13308638, 'exchange_timestamp': 1750668756000, 'last_traded_price': 5608210, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:36 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13308775, 'exchange_timestamp': 1750668756000, 'last_traded_price': 5608210, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:36 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13308840, 'exchange_timestamp': 1750668756000, 'last_traded_price': 5608210, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:36 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13308856, 'exchange_timestamp': 1750668756000, 'last_traded_price': 5608210, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:37 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13308906, 'exchange_timestamp': 1750668756000, 'last_traded_price': 5608085, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:37 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13309364, 'exchange_timestamp': 1750668757000, 'last_traded_price': 5608085, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:38 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13309641, 'exchange_timestamp': 1750668757000, 'last_traded_price': 5608195, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:38 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13310100, 'exchange_timestamp': 1750668758000, 'last_traded_price': 5608195, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:39 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13310326, 'exchange_timestamp': 1750668758000, 'last_traded_price': 5608125, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:39 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13310677, 'exchange_timestamp': 1750668759000, 'last_traded_price': 5607760, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:40 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13310902, 'exchange_timestamp': 1750668759000, 'last_traded_price': 5608350, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:40 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13311362, 'exchange_timestamp': 1750668760000, 'last_traded_price': 5608235, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:41 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13311587, 'exchange_timestamp': 1750668760000, 'last_traded_price': 5608180, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:41 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13312044, 'exchange_timestamp': 1750668761000, 'last_traded_price': 5608425, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:42 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13312256, 'exchange_timestamp': 1750668761000, 'last_traded_price': 5608245, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:42 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13312604, 'exchange_timestamp': 1750668762000, 'last_traded_price': 5608450, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:43 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13312863, 'exchange_timestamp': 1750668762000, 'last_traded_price': 5608355, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:43 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13313323, 'exchange_timestamp': 1750668763000, 'last_traded_price': 5608040, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:44 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13313542, 'exchange_timestamp': 1750668763000, 'last_traded_price': 5608015, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:44 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13313999, 'exchange_timestamp': 1750668764000, 'last_traded_price': 5607760, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:45 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13314218, 'exchange_timestamp': 1750668764000, 'last_traded_price': 5608065, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:45 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13314568, 'exchange_timestamp': 1750668765000, 'last_traded_price': 5607915, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:46 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13314787, 'exchange_timestamp': 1750668765000, 'last_traded_price': 5607670, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:46 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13315246, 'exchange_timestamp': 1750668766000, 'last_traded_price': 5607670, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:47 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13315465, 'exchange_timestamp': 1750668766000, 'last_traded_price': 5607565, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:47 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13315923, 'exchange_timestamp': 1750668767000, 'last_traded_price': 5608000, 'subscription_mode_val': 'LTP'}
+[I 250623 14:22:48 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13316228, 'exchange_timestamp': 1750668767000, 'last_traded_price': 5608060, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:04 websocket:49] WebSocket opened
+[I 250623 14:33:04 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13742504, 'exchange_timestamp': 1750669384000, 'last_traded_price': 5606800, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:05 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13742735, 'exchange_timestamp': 1750669384000, 'last_traded_price': 5607565, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:05 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13743156, 'exchange_timestamp': 1750669385000, 'last_traded_price': 5607050, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:06 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13743385, 'exchange_timestamp': 1750669385000, 'last_traded_price': 5607355, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:06 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13743863, 'exchange_timestamp': 1750669386000, 'last_traded_price': 5607265, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:07 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13744173, 'exchange_timestamp': 1750669386000, 'last_traded_price': 5606440, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:07 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13744650, 'exchange_timestamp': 1750669387000, 'last_traded_price': 5609040, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:08 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13744879, 'exchange_timestamp': 1750669387000, 'last_traded_price': 5608760, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:08 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13745286, 'exchange_timestamp': 1750669388000, 'last_traded_price': 5607520, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:09 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13745517, 'exchange_timestamp': 1750669388000, 'last_traded_price': 5607905, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:09 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13745991, 'exchange_timestamp': 1750669389000, 'last_traded_price': 5607685, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:10 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13746219, 'exchange_timestamp': 1750669389000, 'last_traded_price': 5607795, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:10 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13746675, 'exchange_timestamp': 1750669390000, 'last_traded_price': 5607200, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:11 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13746901, 'exchange_timestamp': 1750669390000, 'last_traded_price': 5607670, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:11 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13747292, 'exchange_timestamp': 1750669391000, 'last_traded_price': 5607480, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:12 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13747600, 'exchange_timestamp': 1750669391000, 'last_traded_price': 5607055, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:12 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13748056, 'exchange_timestamp': 1750669392000, 'last_traded_price': 5607810, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:13 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13748285, 'exchange_timestamp': 1750669392000, 'last_traded_price': 5607805, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:13 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13748744, 'exchange_timestamp': 1750669393000, 'last_traded_price': 5607210, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:14 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13748978, 'exchange_timestamp': 1750669393000, 'last_traded_price': 5607095, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:14 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13749411, 'exchange_timestamp': 1750669394000, 'last_traded_price': 5606310, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:15 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13749640, 'exchange_timestamp': 1750669394000, 'last_traded_price': 5606495, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:15 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13750100, 'exchange_timestamp': 1750669395000, 'last_traded_price': 5606230, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:16 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13750325, 'exchange_timestamp': 1750669395000, 'last_traded_price': 5606270, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:16 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13750783, 'exchange_timestamp': 1750669396000, 'last_traded_price': 5606435, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:17 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13751094, 'exchange_timestamp': 1750669396000, 'last_traded_price': 5605540, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:17 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13751479, 'exchange_timestamp': 1750669397000, 'last_traded_price': 5606185, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:18 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13751707, 'exchange_timestamp': 1750669397000, 'last_traded_price': 5606105, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:18 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13752166, 'exchange_timestamp': 1750669398000, 'last_traded_price': 5605575, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:19 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13752391, 'exchange_timestamp': 1750669398000, 'last_traded_price': 5605685, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:19 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13752850, 'exchange_timestamp': 1750669399000, 'last_traded_price': 5606190, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:20 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13753077, 'exchange_timestamp': 1750669399000, 'last_traded_price': 5606250, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:20 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13753507, 'exchange_timestamp': 1750669400000, 'last_traded_price': 5606250, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:21 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13753740, 'exchange_timestamp': 1750669400000, 'last_traded_price': 5606230, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:21 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13754198, 'exchange_timestamp': 1750669401000, 'last_traded_price': 5606010, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:22 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13754491, 'exchange_timestamp': 1750669401000, 'last_traded_price': 5606430, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:22 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13754948, 'exchange_timestamp': 1750669402000, 'last_traded_price': 5606385, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:23 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13755176, 'exchange_timestamp': 1750669402000, 'last_traded_price': 5606445, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:23 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13755514, 'exchange_timestamp': 1750669403000, 'last_traded_price': 5606090, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:24 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13755735, 'exchange_timestamp': 1750669403000, 'last_traded_price': 5607900, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:24 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13756192, 'exchange_timestamp': 1750669404000, 'last_traded_price': 5606980, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:25 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13756417, 'exchange_timestamp': 1750669404000, 'last_traded_price': 5607355, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:25 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13756874, 'exchange_timestamp': 1750669405000, 'last_traded_price': 5606970, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:26 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13757097, 'exchange_timestamp': 1750669405000, 'last_traded_price': 5607080, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:26 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13757463, 'exchange_timestamp': 1750669406000, 'last_traded_price': 5606955, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:27 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13757745, 'exchange_timestamp': 1750669406000, 'last_traded_price': 5605725, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:27 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13758201, 'exchange_timestamp': 1750669407000, 'last_traded_price': 5606680, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13758426, 'exchange_timestamp': 1750669407000, 'last_traded_price': 5606860, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:28 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13758885, 'exchange_timestamp': 1750669408000, 'last_traded_price': 5607065, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13759112, 'exchange_timestamp': 1750669408000, 'last_traded_price': 5606895, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:29 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13759520, 'exchange_timestamp': 1750669409000, 'last_traded_price': 5607245, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13759746, 'exchange_timestamp': 1750669409000, 'last_traded_price': 5607585, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:30 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13760207, 'exchange_timestamp': 1750669410000, 'last_traded_price': 5607695, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:31 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13760434, 'exchange_timestamp': 1750669410000, 'last_traded_price': 5607505, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:31 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13760892, 'exchange_timestamp': 1750669411000, 'last_traded_price': 5607610, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13761227, 'exchange_timestamp': 1750669411000, 'last_traded_price': 5607750, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:32 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13761546, 'exchange_timestamp': 1750669412000, 'last_traded_price': 5607680, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13761770, 'exchange_timestamp': 1750669412000, 'last_traded_price': 5607795, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:33 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13762230, 'exchange_timestamp': 1750669413000, 'last_traded_price': 5607775, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:34 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13762453, 'exchange_timestamp': 1750669413000, 'last_traded_price': 5607865, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:34 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13762908, 'exchange_timestamp': 1750669414000, 'last_traded_price': 5607895, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13763134, 'exchange_timestamp': 1750669414000, 'last_traded_price': 5607975, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:35 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13763556, 'exchange_timestamp': 1750669415000, 'last_traded_price': 5607385, 'subscription_mode_val': 'LTP'}
+[I 250623 14:33:36 websocket:38] Ticks: {'subscription_mode': 1, 'exchange_type': 1, 'token': '26009', 'sequence_number': 13763782, 'exchange_timestamp': 1750669415000, 'last_traded_price': 5607115, 'subscription_mode_val': 'LTP'}
+[I 250623 14:34:09 websocket:47] WebSocket opened
+[I 250623 14:37:00 websocket:47] WebSocket opened
+[I 250623 14:38:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 35), open=56089.15, high=56093.85, low=56065.8, close=56068.35)
+[I 250623 14:39:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 35), open=56067.4, high=56077.65, low=56056.4, close=56071.05)
+[I 250623 14:40:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 35), open=56070.5, high=56072.75, low=56045.4, close=56050.35)
+[I 250623 14:41:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 40), open=56048.55, high=56054.75, low=56042.35, close=56045.05)
+[I 250623 14:42:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 40), open=56047.45, high=56054.8, low=56041.3, close=56053.5)
+[I 250623 14:43:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 40), open=56053.4, high=56067.7, low=56050.9, close=56057.4)
+[I 250623 14:44:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 40), open=56057.7, high=56065.6, low=56041.85, close=56049.25)
+[I 250623 14:45:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 40), open=56051.3, high=56056.0, low=56037.65, close=56045.1)
+[I 250623 14:46:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 45), open=56044.2, high=56059.95, low=56034.3, close=56042.9)
+[I 250623 14:47:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 45), open=56042.15, high=56051.95, low=56034.55, close=56034.55)
+[I 250623 14:48:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 45), open=56033.2, high=56033.75, low=56011.9, close=56021.3)
+[I 250623 14:49:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 45), open=56021.85, high=56044.9, low=56019.3, close=56030.7)
+[I 250623 14:50:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 45), open=56031.7, high=56045.9, low=56028.25, close=56042.0)
+[I 250623 14:51:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 50), open=56043.55, high=56059.65, low=56042.25, close=56044.9)
+[I 250623 14:52:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 50), open=56046.5, high=56049.9, low=56036.8, close=56040.25)
+[I 250623 14:53:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 50), open=56041.35, high=56048.55, low=56027.05, close=56027.35)
+[I 250623 14:54:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 50), open=56027.35, high=56042.1, low=56025.65, close=56034.4)
+[I 250623 14:55:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 50), open=56034.4, high=56044.1, low=56027.0, close=56040.25)
+[I 250623 14:56:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 55), open=56042.3, high=56054.35, low=56041.05, close=56047.5)
+[I 250623 14:57:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 55), open=56048.95, high=56061.1, low=56043.0, close=56051.65)
+[I 250623 14:58:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 55), open=56053.65, high=56062.7, low=56045.6, close=56051.05)
+[I 250623 14:59:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 55), open=56050.9, high=56066.75, low=56045.8, close=56060.85)
+[I 250623 15:00:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 14, 55), open=56058.75, high=56068.1, low=56058.15, close=56063.1)
+[I 250623 15:01:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 0), open=56060.6, high=56071.75, low=56049.8, close=56065.35)
+[I 250623 15:02:25 websocket:47] WebSocket opened
+[I 250623 15:02:43 websocket:47] WebSocket opened
+[I 250623 15:03:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 0), open=56066.0, high=56069.95, low=56063.65, close=56067.65)
+[I 250623 15:04:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 0), open=56065.7, high=56070.7, low=56059.95, close=56061.95)
+[I 250623 15:12:47 websocket:47] WebSocket opened
+[I 250623 15:15:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 10), open=56053.1, high=56069.7, low=56051.65, close=56058.6)
+[I 250623 15:20:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 15), open=56058.85, high=56085.8, low=56052.85, close=56056.75)
+[I 250623 15:25:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 20), open=56057.65, high=56061.95, low=56032.95, close=56037.5)
+[I 250623 15:30:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 25), open=56041.0, high=56051.0, low=56021.55, close=56034.55)
+[I 250623 15:35:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 30), open=56032.9, high=56059.8, low=56032.9, close=56059.35)
+[I 250623 15:40:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 35), open=56059.35, high=56059.35, low=56059.35, close=56059.35)
+[I 250623 15:45:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 40), open=56059.35, high=56059.35, low=56059.35, close=56059.35)
+[I 250623 15:50:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 45), open=56059.35, high=56059.35, low=56059.35, close=56059.35)
+[I 250623 15:55:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 50), open=56059.35, high=56059.35, low=56059.35, close=56059.35)
+[I 250623 16:00:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 15, 55), open=56059.35, high=56059.35, low=56059.35, close=56059.35)
+[I 250623 16:05:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 16, 0), open=56059.35, high=56059.35, low=56059.35, close=56059.35)
+[I 250623 16:10:01 candle_builder:29] Candle Candle(time=datetime.datetime(2025, 6, 23, 16, 5), open=56059.35, high=56059.35, low=56059.35, close=56059.35)
+[I 250623 17:16:58 websocket:47] WebSocket opened
+[I 250623 17:35:58 websocket:47] WebSocket opened
+[I 250623 17:38:59 websocket:47] WebSocket opened
+[I 250623 17:51:30 websocket:47] WebSocket opened
+[I 250623 17:53:44 websocket:47] WebSocket opened
+[I 250623 17:58:04 websocket:47] WebSocket opened
+[I 250623 18:04:49 websocket:47] WebSocket opened
+[I 250623 18:05:13 websocket:47] WebSocket opened
+[I 250623 18:06:12 websocket:47] WebSocket opened
+[I 250623 18:06:54 websocket:47] WebSocket opened
+[W 250623 18:06:56 websocket:56] WebSocket closed
