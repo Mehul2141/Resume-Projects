@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1>Research Paper Database</h1>
+        <h3>Research Table</h3>
+        <hr>
+        <table border="1">
+            <tr>
+                <th>Research ID</th>
+                <th>Publisher ID</th>
+                <th>Institute ID</th>
+                <th>Type</th>
+                <th>Name</th>
+                <th>Views</th>
+                <th>Likes</th>
+                <th>Dislikes</th>
+                <th>Publish Date</th>
+            </tr>
+
+            {% for result in research_data %}
+            <tr>
+                <th>{{result.research_id}}</th>
+                <th>{{result.publisher_id}}</th>
+                <th>{{result.institute_id}}</th>
+                <th>{{result.type}}</th>
+                <th>{{result.name}}</th>
+                <th>{{result.views}}</th>
+                <th>{{result.likes}}</th>
+                <th>{{result.dislikes}}</th>
+                <th>{{result.publish_date}}</th>
+                <td> <a href="Edit/{{result.research_id}}">Edit</a></td>
+                <td> <a href="Delete/{{result.research_id}}" onclick="return confirm('Are you sure to delete this record?')">Delete</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </center>
+</body>
+</html>

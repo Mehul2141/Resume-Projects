@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        
+        <h1>Edit Research Table</h1>
+        <hr>
+        <form method="POST" action="/Update/{{research_Model.research_id}}">
+            {% csrf_token %}
+        <table border="1">
+           
+            <tr>
+                <th>Reserach ID</th>
+                <td><input type="number" name="research_id" value="{{research_Model.research_id}}" readonly></td>
+            </tr>
+            <tr>
+                <th>Publisher ID</th>
+                <td><input type=/"number" name="publisher_id" value="{{research_Model.publisher_id}}"></td>
+            </tr>
+            <tr>
+                <th>Institute ID</th>
+                <td><input type="number" name="institute_id" value="{{research_Model.institute_id}}"></td>
+            </tr>
+            <tr>
+                <th>Type</th>
+                <td><input type="text" name="type" value="{{research_Model.type}}"></td>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <td><input type="text" name="name" value="{{research_Model.name}}"></td>
+            </tr>
+           
+            <tr>
+                <th>Views</th>
+                <td><input type="number" name="views" value="{{research_Model.views}}"></td>
+            </tr>
+            <tr>
+                <th>Likes</th>
+                <td><input type="number" name="likes" value="{{research_Model.likes}}"></td>
+            </tr>
+            <tr>
+                <th>Dislikes</th>
+                <td><input type="number" name="dislikes" value="{{research_Model.dislikes}}"></td>
+            </tr>
+
+            <tr>
+                <th>Publish Date</th>
+                <td><input type="date" name="publish_date" value="{{research_Model.publish_date}}"></td>
+            </tr>
+            <tr>
+                  <td><input type="submit" value="Update Record"></td>
+                  <td>  {% if messages %} 
+                    {% for mess in messages %}
+                 <b  style="color: green;">{{mess}}</b>
+                 {% endfor %}
+                 {% endif %} </td>
+                  </tr>
+           
+        </table>
+    </form>
+    </center>
+</body>
+</html>
