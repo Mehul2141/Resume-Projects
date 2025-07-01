@@ -9,6 +9,7 @@ from sqlalchemy.future import select
 
 # Use HTTPBearer instead of OAuth2PasswordBearer
 security = HTTPBearer()
+# Replace this with a secure key
 SECRET_KEY = "your-super-secret-key"
 ALGORITHM = "HS256"
 
@@ -17,7 +18,6 @@ async def get_current_user(
     db: Session = Depends(get_db)
 ) -> User:
     token = credentials.credentials
-    print(token)
     try:
         payload = jwt.decode(token,SECRET_KEY, algorithms=[ALGORITHM])
         user_id: str = payload.get("sub")
@@ -31,3 +31,7 @@ async def get_current_user(
     if user is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="User not found")
     return user
+
+
+
+

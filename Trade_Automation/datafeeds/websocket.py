@@ -11,16 +11,19 @@ EXCHANGE_TYPE  = 1
 MODE           = 1
 CORRELATION_ID = "abc123"
 
-_all_ = ["sws", "tick_buffer"]
+__all__ = ["sws", "tick_buffer"]
 
 # shared dict; candle_builder consumes it
 tick_buffer: defaultdict[datetime, list[Tick]] = defaultdict(list)
 
 def _build_sws() -> SmartWebSocketV2:
+    print(settings.ANGELONE_CLIENTCODE,
+        settings.ANGELONE_APP_PASSWORD,
+        settings.ANGELONE_TOTP_SECRET,)
     jwt, feed, _ = get_auth_tokens(
         client_code=settings.ANGELONE_CLIENTCODE,
         password=settings.ANGELONE_APP_PASSWORD,
-        totp_key=settings.ANGELONE_TOTP_SECRET,
+        topt_key=settings.ANGELONE_TOTP_SECRET
     )
 
     sws = SmartWebSocketV2(

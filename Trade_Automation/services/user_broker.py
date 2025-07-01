@@ -15,7 +15,7 @@ async def save_user_broker(
     created_at,
 ):
     # Get broker id from broker_name
-    result = await db.execute(select(Broker).where(Broker.broker_name == broker_name))
+    result = await db.execute(select(Broker).where(Broker.name == broker_name))
     broker = result.scalar_one_or_none()
 
     if not broker:
@@ -56,3 +56,4 @@ async def save_user_broker(
     await db.refresh(user_broker)
 
     return user_broker
+
