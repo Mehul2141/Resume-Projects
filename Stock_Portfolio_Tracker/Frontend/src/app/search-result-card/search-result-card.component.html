@@ -1,0 +1,14 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <mat-card-title>{{result["1. symbol"]}}</mat-card-title>
+    <mat-card-subtitle>{{result["2. name"]}}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content  style="padding-left: 15px">
+    <p>Type : {{result["3. type"]}}</p>
+    <p>Region : {{result["4. region"]}}</p>
+    <p>currency : {{result["8. currency"]}}</p>
+    <button mat-mini-fab color="primary" aria-label="Add stock to portfolio" (click)="openDialog()">
+      <mat-icon>add</mat-icon>
+    </button>
+  </mat-card-content>
+</mat-card>
