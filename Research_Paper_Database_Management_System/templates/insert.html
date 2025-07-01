@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1>Research Paper Database</h1>
+        <h3>Insert Research Table Data</h3>
+        <hr>
+        <form method="POST">
+        {% csrf_token %}
+        <table>
+            <tr>
+                <th>Reserach ID</th>
+                <td><input type="number" name="research_id" placholder="Enter Research ID"></td>
+            </tr>
+            <tr>
+                <th>Publisher ID</th>
+                <td><input type=/"number" name="publisher_id" placholder="Enter Publisher ID"></td>
+            </tr>
+            <tr>
+                <th>Institute ID</th>
+                <td><input type="number" name="institute_id" placholder="Enter Institute ID"></td>
+            </tr>
+            <tr>
+                <th>Type</th>
+                <td><input type="text" name="type" placholder="Enter Type"></td>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <td><input type="text" name="name" placholder="Enter Name"></td>
+            </tr>
+           
+            <tr>
+                <th>Views</th>
+                <td><input type="number" name="views" placeholder="Enter Number of Views"></td>
+            </tr>
+            <tr>
+                <th>Likes</th>
+                <td><input type="number" name="likes" placeholder="Enter Number of Likes"></td>
+            </tr>
+            <tr>
+                <th>Dislikes</th>
+                <td><input type="number" name="dislikes" placeholder="Enter Number of Dislikes"></td>
+            </tr>
+
+            <tr>
+                <th>Publish Date</th>
+                <td><input type="date" name="publish_date"></td>
+            </tr>
+            <tr>
+
+              
+            <tr>
+                <td><input type="submit" value="Insert"/>
+                 <td>  {% if messages %} 
+                       {% for mess in messages %}
+                    <b  style="color: green;">{{mess}}</b>
+                    {% endfor %}
+                    {% endif %} </td>
+            </tr>
+            
+        </table>
+        
+        </form>
+    </center>
+</body>
+</html>

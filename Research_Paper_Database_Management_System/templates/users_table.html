@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1>Research Paper Database</h1>
+        <h3>Users Table</h3>
+        <hr>
+        <table border="1">
+            <tr>
+                <th>User ID</th>
+                <th>First Name</th>
+                <th>Middle Name</th>
+                <th>Last Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Email ID</th>
+                <th>Profession</th>
+                <th>Role Here</th>
+            </tr>
+
+            {% for result in users_data %}
+            <tr>
+                <th>{{result.user_id}}</th>
+                <th>{{result.first_name}}</th>
+                <th>{{result.middle_name}}</th>
+                <th>{{result.last_name}}</th>
+                <th>{{result.age}}</th>
+                <th>{{result.gender}}</th>
+                <th>{{result.email_id}}</th>
+                <th>{{result.profession}}</th>
+                <th>{{result.role_here}}</th>
+               
+            </tr>
+            {% endfor %}
+        </table>
+    </center>
+</body>
+</html>
