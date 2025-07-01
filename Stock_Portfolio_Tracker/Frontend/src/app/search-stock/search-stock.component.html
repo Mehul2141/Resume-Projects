@@ -1,0 +1,22 @@
+<mat-card class="example-card" >
+  <mat-card-header>
+    <mat-card-title>Search Stock</mat-card-title>
+    <mat-card-subtitle>Search stocks by ticker or company name</mat-card-subtitle>
+  </mat-card-header>
+  <mat-form-field class="example-form-field" style="padding-left: 15px" >
+    <mat-label>Search Stocks</mat-label>
+    <input matInput type="text" [(ngModel)]="searchQuery">
+  </mat-form-field>
+  <button mat-raised-button color="primary" (click)="searchStocks()">Search</button>
+  <mat-card-actions align="end">
+    <button mat-raised-button color="primary" (click)="portfolio()">View Portfolio</button>
+  </mat-card-actions>
+</mat-card>
+<p *ngIf="error" class="error">
+  {{ error }}
+</p>
+<app-search-result-card
+  *ngFor="let result of searchResults"
+  [result]="result">
+</app-search-result-card>
+

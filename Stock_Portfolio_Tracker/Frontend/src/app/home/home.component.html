@@ -1,0 +1,98 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <mat-card-title>Hello {{this.username}}</mat-card-title>
+    <mat-card-subtitle>Here is your current portfolio</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-actions align="end">
+    <button mat-raised-button color="primary" (click)="searchStock()">Add Stock</button>
+  </mat-card-actions>
+</mat-card>
+
+
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+  <ng-container matColumnDef="Symbol">
+    <th mat-header-cell *matHeaderCellDef>Symbol</th>
+    <td mat-cell *matCellDef="let element"> {{element.stockData.symbol}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Price">
+    <th mat-header-cell *matHeaderCellDef>Price</th>
+    <td mat-cell *matCellDef="let element"> {{element.stockData.price}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="PurchasePrice">
+    <th mat-header-cell *matHeaderCellDef> Purchase Price</th>
+    <td mat-cell *matCellDef="let element"> {{element.purchasePrice}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Amount">
+    <th mat-header-cell *matHeaderCellDef>Amount</th>
+    <td mat-cell *matCellDef="let element"> {{element.amount}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="ChangePercent">
+    <th mat-header-cell *matHeaderCellDef>Change Percent</th>
+    <td mat-cell *matCellDef="let element"> {{element.changePercent}} %</td>
+  </ng-container>
+
+  <ng-container matColumnDef="PurchaseDate">
+    <th mat-header-cell *matHeaderCellDef>Purchase Date</th>
+    <td mat-cell *matCellDef="let element"> {{element.purchaseDate | date:'MM/dd/yyyy'}}  </td>
+  </ng-container>
+
+
+  <ng-container matColumnDef="SMA">
+    <th mat-header-cell *matHeaderCellDef> SMA</th>
+    <td mat-cell *matCellDef="let element"> {{element.stockData.sma}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="MACD">
+    <th mat-header-cell *matHeaderCellDef>MACD</th>
+    <td mat-cell *matCellDef="let element"> {{element.stockData.macd}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="RSI">
+    <th mat-header-cell *matHeaderCellDef>RSI</th>
+    <td mat-cell *matCellDef="let element">{{element.stockData.rsi}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Open">
+    <th mat-header-cell *matHeaderCellDef>Open</th>
+    <td mat-cell *matCellDef="let element">{{element.stockData.open}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="High">
+    <th mat-header-cell *matHeaderCellDef>High</th>
+    <td mat-cell *matCellDef="let element"> {{element.stockData.high}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Low">
+    <th mat-header-cell *matHeaderCellDef>Low</th>
+    <td mat-cell *matCellDef="let element"> {{element.stockData.low}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Volume">
+    <th mat-header-cell *matHeaderCellDef>Volume</th>
+    <td mat-cell *matCellDef="let element"> {{element.stockData.volume}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="CompanyDetails">
+    <th mat-header-cell *matHeaderCellDef>Company Details</th>
+    <td mat-cell *matCellDef="let element"><button mat-raised-button color="primary" (click)="viewCompanyDetail(element.stockData.symbol)">Details</button></td>
+  </ng-container>
+
+  <ng-container matColumnDef="Action">
+    <th mat-header-cell *matHeaderCellDef>Action</th>
+    <td mat-cell *matCellDef="let element"><button mat-raised-button color="primary" (click)="deleteStock(element.stockData.symbol)">Delete</button></td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+</table>
+
+<p *ngIf="error" class="error">
+  {{ error }}
+</p>
+

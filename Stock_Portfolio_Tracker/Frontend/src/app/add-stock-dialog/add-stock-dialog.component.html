@@ -1,0 +1,38 @@
+<h1 mat-dialog-title>Add {{this.data["1. symbol"]}} to your portfolio</h1>
+<div mat-dialog-content>
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <p>
+      <mat-form-field>
+        <input type="text" matInput placeholder="Symbol" formControlName="symbol">
+      </mat-form-field>
+    </p>
+
+    <p>
+      <mat-form-field>
+        <input type="number" step="0.01" matInput placeholder="Amount" formControlName="amount">
+      </mat-form-field>
+    </p>
+
+    <p>
+      <mat-form-field>
+        <input type="number" step="0.01" matInput placeholder="Purchase Price" formControlName="purchasePrice">
+      </mat-form-field>
+    </p>
+
+    <p>
+      <mat-form-field>
+        <mat-label>Purchase Date</mat-label>
+        <input matInput [matDatepicker]="picker" formControlName="purchaseDate">
+        <mat-hint>MM/DD/YYYY</mat-hint>
+        <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+      </mat-form-field>
+    </p>
+
+    <div class="button">
+      <button mat-button mat-dialog-close>Cancel</button>
+      <button type="submit" mat-button cdkFocusInitial>Submit</button>
+    </div>
+
+  </form>
+</div>
